@@ -1,6 +1,6 @@
 Name:		texlive-lshort-estonian
 Version:	39323
-Release:	1
+Release:	2
 Summary:	Estonian introduction to LaTeX
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/lshort-estonian
