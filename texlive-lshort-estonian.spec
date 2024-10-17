@@ -3,7 +3,7 @@ Version:	39323
 Release:	2
 Summary:	Estonian introduction to LaTeX
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/lshort-estonian
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/lshort-estonian
 License:	gpl2
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/lshort-estonian.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/lshort-estonian.doc.r%{version}.tar.xz
